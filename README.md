@@ -8,6 +8,7 @@
 You can copy one of link addresses below as a resource url to add in your [TabHub](https://tabhub.io) settings:
 
 
+ - [git-cats](https://raw.githubusercontent.com/gitx-io/git-cats/main/manifest.json)
 
 ---
 
